@@ -72,4 +72,4 @@ https://codepen.io/hlee2501/pen/ZEYYeXr?editors=110
     36. What is the command we would use to push our repo up to github?
     	You use "git push".
     37. Walk me through Lambda's git flow. 
-    	You fork, add TL as a collaborator, clone repo, branch, and submit a PR.
+    	You fork, add TL as a collaborator, clone repo, branch, add the files, commit, push, and submit a PR.
